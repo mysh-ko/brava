@@ -1,3 +1,3 @@
 const myFunc = (): void => {
-	console.log('Helplo, world!');
+	console.log('Hello, world!');
 }
